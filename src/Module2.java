@@ -1,8 +1,6 @@
 import java.util.Scanner; // подключение сканнера
 
 
-public class Main {
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Input a number: ");
@@ -25,4 +23,3 @@ public class Main {
         }
 
     }
-}
