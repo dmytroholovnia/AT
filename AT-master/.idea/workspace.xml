@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c43005dc-5ed3-4d39-bedc-d0ae8279818d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/FirstProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Module2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Task2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Task3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Task4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Task5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/out/production/FirstProject/Task6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Module2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/src/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../AT-master/untitled2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c43005dc-5ed3-4d39-bedc-d0ae8279818d" name="Default Changelist" comment="task 5 again">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Module2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Task2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Task3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Task4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Task5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FirstProject/Task6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Module2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirstProject/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,8 +37,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -52,7 +52,11 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Module2.java">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -67,20 +71,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task4.java">
+        <entry file="file://$PROJECT_DIR$/src/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -103,12 +134,15 @@
         <option value="$PROJECT_DIR$/src/Task2.java" />
         <option value="$PROJECT_DIR$/src/Task3.java" />
         <option value="$PROJECT_DIR$/src/Task4.java" />
+        <option value="$PROJECT_DIR$/src/Task5.java" />
+        <option value="$PROJECT_DIR$/src/Task6.java" />
+        <option value="$PROJECT_DIR$/src/Task7.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="720" />
-    <option name="width" value="720" />
+    <option name="x" value="633" />
+    <option name="width" value="807" />
     <option name="height" value="860" />
   </component>
   <component name="ProjectId" id="1Xd42fmVRyVIE3tp7g7pZxPc3sV" />
@@ -119,23 +153,23 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="AT-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AT-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="FirstProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
+              <item name="AT-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AT-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -147,10 +181,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AT-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,19 +199,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task4">
+  <component name="RunManager" selected="Application.Task7">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstProject" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task2" />
-      <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -195,17 +223,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task5" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task7" />
+      <module name="FirstProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Task2" />
       <item itemvalue="Application.Task3" />
       <item itemvalue="Application.Task4" />
+      <item itemvalue="Application.Task5" />
+      <item itemvalue="Application.Task6" />
+      <item itemvalue="Application.Task7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Task6" />
+        <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -235,20 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1581367285943</updated>
     </task>
-    <task id="LOCAL-00003" summary="task 4 (guess game)">
-      <created>1581373987005</created>
+    <task id="LOCAL-00003" summary="task 5 again">
+      <created>1581501197969</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1581373987006</updated>
+      <updated>1581501197969</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16260745" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12750717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -257,14 +311,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3360215" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32795697" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32123655" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -282,8 +336,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="here we go again" />
     <MESSAGE value="task 3.1 (return odd numbers)" />
-    <MESSAGE value="task 4 (guess game)" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 4 (guess game)" />
+    <MESSAGE value="task 5 again" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 5 again" />
   </component>
   <component name="WindowStateProjectService">
     <state x="589" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1581362460393">
@@ -299,9 +353,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Module2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -309,20 +360,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task3.java">
+    <entry file="file://$PROJECT_DIR$/src/Task6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Module2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
         </state>
       </provider>
     </entry>
