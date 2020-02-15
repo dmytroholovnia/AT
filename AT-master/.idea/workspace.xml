@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c43005dc-5ed3-4d39-bedc-d0ae8279818d" name="Default Changelist" comment="task 5 again">
-      <change afterPath="$PROJECT_DIR$/src/Task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task111.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task12.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="3" column="45" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task3.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,15 +85,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Task11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+            <state relative-caret-position="85">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#622#631#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Task12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -150,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/Task10.java" />
         <option value="$PROJECT_DIR$/src/Task111.java" />
         <option value="$PROJECT_DIR$/src/Task11.java" />
+        <option value="$PROJECT_DIR$/src/Task12.java" />
       </list>
     </option>
   </component>
@@ -212,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task11">
+  <component name="RunManager" selected="Application.Task12">
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="FirstProject" />
@@ -236,8 +234,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task7" />
+    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task12" />
       <module name="FirstProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -259,19 +257,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Task7" />
       <item itemvalue="Application.Task8" />
       <item itemvalue="Application.Task9" />
       <item itemvalue="Application.Task11" />
       <item itemvalue="Application.Task111" />
+      <item itemvalue="Application.Task12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task12" />
         <item itemvalue="Application.Task11" />
         <item itemvalue="Application.Task111" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +311,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="542" y="0" width="898" height="860" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21360382" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -456,12 +453,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Task11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#622#631#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
