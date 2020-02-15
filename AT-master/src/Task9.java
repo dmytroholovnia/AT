@@ -13,7 +13,7 @@ public class Task9 {
         firstValue = scan.nextInt();
         secondValue = scan.nextInt();
         thirdValue = scan.nextInt();
-        
+
         System.out.println("The biggest is: " + max(max(firstValue, secondValue), thirdValue));
     }
     }
